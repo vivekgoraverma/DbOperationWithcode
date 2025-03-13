@@ -1,8 +1,0 @@
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.csproj.AssemblyReference.cache
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.AssemblyInfoInputs.cache
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.AssemblyInfo.cs
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.csproj.CoreCompileInputs.cache
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Vivek\Documents\CScorner\EntityFrameCore\SRCFLDR\DbOperationWithcode\DbOperationWithcode\DbOperationWithcode\obj\Debug\net8.0\DbOperationWithcode.sourcelink.json
